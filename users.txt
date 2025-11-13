@@ -1,0 +1,4 @@
+# Developers List
+light; sudo, dev, www-data
+siyoni; sudo
+manoj; dev, www-data
